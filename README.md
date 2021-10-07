@@ -12,6 +12,12 @@ In this project the goal is to create a platfrom to write and publish their own 
 | Bootstrap5 | :arrow_right:  |  60 |
 | MySQL | :arrow_right:  |  70 |
 
+## Demo Account
+| :closed_lock_with_key: E-Mail | :old_key: Password |
+|----------|----------|
+| **``selen@mail.com``**| **123**|
+| **``irem@mail.com``**| **12345**|
+
 ## Application Images
 <p>
   
