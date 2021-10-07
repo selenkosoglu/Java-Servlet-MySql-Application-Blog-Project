@@ -1,5 +1,6 @@
 # Java Servlet MySql Application Blog Project
-Application Description
+
+In this project the goal is to create a platfrom to write and publish their own blogs for authors by using Java, MySQL and Servlet. Authors must be sign in to the website in order to add, update or delete blogs. Every author can see, update or delete their own blogs. Blogs will be shown as their titles in the first page, when a visitor clicks the title the detailed version of the blog will appear. The website also contains "Contact Us" and "About Us" pages.
 
 ## Languages and Technologies Used in this Project
 
