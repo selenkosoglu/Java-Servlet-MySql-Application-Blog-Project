@@ -13,7 +13,7 @@ In this project the goal is to create a platfrom to write and publish their own 
 | MySQL | :arrow_right:  |  70 |
 
 ## Demo Account
-| :closed_lock_with_key: Username | :old_key: Password |
+| :closed_lock_with_key: E-Mail | :old_key: Password |
 |----------|----------|
 | **``skosoglu3@mail.com``**| **12345**|
 | **``irem@mail.com``**| **12345**|
