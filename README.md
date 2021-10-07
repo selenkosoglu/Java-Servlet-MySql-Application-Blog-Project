@@ -8,8 +8,9 @@ In this project the goal is to create a platfrom to write and publish their own 
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right:  |  90 |
 | Servlet | :arrow_right:  |  80 |
-| HTML | :arrow_right:  |  70 |
+| HTML | :arrow_right:  |  90 |
 | Bootstrap5 | :arrow_right:  |  60 |
+| JavaScript | :arrow_right:  |  20 |
 | MySQL | :arrow_right:  |  70 |
 
 ## Demo Account
