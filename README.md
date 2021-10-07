@@ -51,6 +51,4 @@ Application Description
 <a href="https://github.com/selenkosoglu/Java-Servlet-MySql-Application-Blog-Project/blob/main/görseller/blog12.png" target="_blank">
 <img src="https://github.com/selenkosoglu/Java-Servlet-MySql-Application-Blog-Project/blob/main/görseller/blog12.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/selenkosoglu/Java-Servlet-MySql-Application-Blog-Project/blob/main/görseller/blog13.png" target="_blank">
-<img src="https://github.com/selenkosoglu/Java-Servlet-MySql-Application-Blog-Project/blob/main/görseller/blog13.png" width="200" style="max-width:100%;"></a> 
 </p>
