@@ -1,4 +1,4 @@
-# Java-Servlet MySql Application Blog Project
+# Java Servlet MySql Application Blog Project
 Application Description
 
 ## Languages and Technologies Used in this Project
