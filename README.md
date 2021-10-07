@@ -15,7 +15,7 @@ In this project the goal is to create a platfrom to write and publish their own 
 ## Demo Account
 | :closed_lock_with_key: E-Mail | :old_key: Password |
 |----------|----------|
-| **``skosoglu3@mail.com``**| **12345**|
+| **``selen@mail.com``**| **123**|
 | **``irem@mail.com``**| **12345**|
 
 ## Application Images
